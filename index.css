@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+   margin-bottom: 30px;
+}
+
+.carte-profil {
+    background-color: white;
+    width: 250px;
+    margin: 0 auto;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+.carte-profil img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.carte-profil h2 {
+    margin: 10px 0;
+}
+
+table {
+    width: 100%;
+    margin-top: 10px;
+}
+
+td {
+    padding: 5px;
+}
+
+a img {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+}
